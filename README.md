@@ -2,20 +2,29 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hi, I'm **Prashant Mishra** 🚀  
-A passionate **Computer Science Engineering student at IERT Prayagraj** and an aspiring **Full Stack Developer & AI/ML Engineer**.
+🚀 Prashant Mishra
+🎓 Computer Science Engineering Student at IERT Prayagraj
+💻 Aspiring Full Stack Developer & AI/ML Engineer
+I’m passionate about building responsive, scalable, and interactive applications that deliver seamless user experiences and meaningful impact.
+From crafting modern web interfaces to exploring intelligent systems with AI/ML, I enjoy working on projects that challenge me to grow as a developer and problem solver.
+🌟 Interests & Expertise
 
-I enjoy building modern, responsive, and interactive web applications while continuously exploring **AI/ML, scalable systems, and problem-solving**.
 
-💡 I love transforming ideas into real-world projects with clean UI, smooth animations, and efficient architecture.
+⚛️ Full Stack Web Development
 
-🌱 Currently focused on:
-- ⚛️ Full Stack Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 DSA & Competitive Programming
-- ⚡ System Design & Scalable Applications
 
-✨ I believe in **learning by building, staying consistent, and improving every day.**
+🤖 Artificial Intelligence & Machine Learning
+
+
+🧠 Data Structures & Algorithms
+
+
+⚡ Scalable Systems & System Design
+
+
+💡 Philosophy
+I believe that the best way to learn is by building real projects, staying consistent, and continuously pushing beyond limits.
+✨ Code with creativity. Build with purpose. Grow with consistency.
 
 > *"Code. Create. Innovate."*
 
