@@ -7,6 +7,7 @@
 💻 Aspiring Full Stack Developer & AI/ML Engineer
 I’m passionate about building responsive, scalable, and interactive applications that deliver seamless user experiences and meaningful impact.
 From crafting modern web interfaces to exploring intelligent systems with AI/ML, I enjoy working on projects that challenge me to grow as a developer and problem solver.
+
 🌟 Interests & Expertise
 
 
