@@ -31,7 +31,7 @@ From crafting modern web interfaces to exploring intelligent systems with AI/ML,
 ## 💡 Philosophy
 I believe that the best way to learn is by building real projects, staying consistent, and continuously pushing beyond limits.
 
-✨ Code with creativity. Build with purpose. Grow with consistency.
+✨ Code with creativity. Build with purpose. Grow with consistency. 
 
 > *"Code. Create. Innovate."*
 
