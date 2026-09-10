@@ -5,8 +5,9 @@
 🎓 Final Year Computer Science Engineering Student at IERT Prayagraj (AKTU)
 💻 Aspiring Full Stack Developer (MERN) & AI/ML Enthusiast
 
-I'm passionate about building responsive, scalable, and interactive applications that deliver seamless user experiences and meaningful impact.
-From crafting modern web interfaces to exploring intelligent systems with AI/ML, I enjoy working on projects that challenge me to grow as a developer and problem solver.
+I'm passionate about building responsive, scalable, and interactive applications that deliver seamless user experiences and meaningful impact. Alongside software development, I have a strong interest in Cybersecurity and Information Security, where I enjoy exploring areas such as network security, ethical hacking, and secure application development.
+
+From crafting modern web interfaces to exploring intelligent systems with AI/ML and understanding security vulnerabilities, I enjoy working on projects that challenge me to grow as a developer, cybersecurity enthusiast, and problem solver.
 
 ## 🌟 Interests & Expertise
 - ⚛️ Full Stack Web Development (MERN)
